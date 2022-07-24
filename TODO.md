@@ -2,7 +2,7 @@
 
 ## Client
 ### Game States
-* Login (Set Name)
+* ✅ Login (Set Name)
 * Lobby
   * Players join
   * Enter names
