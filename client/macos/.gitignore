@@ -1,5 +1,6 @@
 # Flutter-related
 **/Flutter/ephemeral/
+**/Flutter/Generated*.swift
 **/Pods/
 
 # Xcode-related
